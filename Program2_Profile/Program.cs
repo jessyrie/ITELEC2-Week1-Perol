@@ -1,7 +1,7 @@
 ﻿string name = "Jessyrie Perol";
 int age = 23;
 double gwa = 1.75;
-char section = '3.5';
+char section = 'A';
 bool isEnrolled = true;
 
 Console.WriteLine("=== STUDENT PROFILE ===");
